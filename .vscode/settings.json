@@ -1,0 +1,8 @@
+{
+    "diffEditor.wordWrap": "inherit",
+    "editor.wordWrap": "off",
+    "workbench.editor.closeOnFileDelete": true,
+    "editor.wordWrapColumn": 80,
+    "editor.linkedEditing": true,
+    "liveServer.settings.port": 5503
+}
